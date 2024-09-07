@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. John Smith",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Amazing professor! Explains concepts clearly and is very approachable."
+    },
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Great teacher but her lectures can be a bit fast-paced at times."
+    },
+    {
+      "professor": "Dr. Michael Lee",
+      "subject": "Computer Science",
+      "stars": 3,
+      "review": "Knowledgeable, but assignments are very challenging without much help."
+    },
+    {
+      "professor": "Dr. Sarah Williams",
+      "subject": "History",
+      "stars": 5,
+      "review": "Passionate about history and makes every lecture engaging."
+    },
+    {
+      "professor": "Dr. David Brown",
+      "subject": "Economics",
+      "stars": 2,
+      "review": "Not the most helpful professor and doesn't seem to care much about students."
+    },
+    {
+      "professor": "Dr. Linda Martinez",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Solid lectures, but the lab sessions are poorly organized."
+    },
+    {
+      "professor": "Dr. William Davis",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Good lectures, but can be unclear on exam expectations."
+    },
+    {
+      "professor": "Dr. Jennifer Garcia",
+      "subject": "Biology",
+      "stars": 5,
+      "review": "Wonderful professor! Very interactive and cares about student success."
+    },
+    {
+      "professor": "Dr. Richard Harris",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Deep thinker and great discussions, but assignments are tough."
+    },
+    {
+      "professor": "Dr. Jessica Clark",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "She knows her stuff but can be very hard to follow at times."
+    },
+    {
+      "professor": "Dr. Mark Lewis",
+      "subject": "Sociology",
+      "stars": 4,
+      "review": "Engaging lectures, but the grading is a bit tough."
+    },
+    {
+      "professor": "Dr. Nancy Young",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Amazing! She makes literature come alive in her classes."
+    },
+    {
+      "professor": "Dr. Robert Walker",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Not very enthusiastic, but knows the material well."
+    },
+    {
+      "professor": "Dr. Karen Scott",
+      "subject": "Business",
+      "stars": 2,
+      "review": "Lectures feel repetitive, and grading is inconsistent."
+    },
+    {
+      "professor": "Dr. Charles Robinson",
+      "subject": "Engineering",
+      "stars": 4,
+      "review": "Great professor but can be hard to reach outside of class."
+    },
+    {
+      "professor": "Dr. Michelle Perez",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Inspiring professor with a deep love for art and history!"
+    },
+    {
+      "professor": "Dr. Steven Evans",
+      "subject": "Law",
+      "stars": 3,
+      "review": "Tough but fair. You have to be prepared for his classes."
+    },
+    {
+      "professor": "Dr. Elizabeth Green",
+      "subject": "Philosophy",
+      "stars": 5,
+      "review": "Fantastic professor! Really challenges you to think critically."
+    },
+    {
+      "professor": "Dr. Brian Hall",
+      "subject": "Marketing",
+      "stars": 4,
+      "review": "Engaging and relatable, but the workload can be a bit much."
+    },
+    {
+      "professor": "Dr. Laura Mitchell",
+      "subject": "Geology",
+      "stars": 5,
+      "review": "Super engaging and makes a subject like geology fascinating!"
+    }
+  ]
+}
